@@ -1,0 +1,49 @@
+.container{display: grid;
+    margin-top: 4rem; 
+    margin-bottom: 4rem;
+    background-color: antiquewhite;
+     width: 25%;
+      height: 25%;
+    box-shadow: 8px 8px 8px 8px;
+     border-radius: 0.8rem;
+     padding: 1rem;
+     border-color: black;
+     column-gap: 0;
+}
+
+h2{ font-family: 'Righteous'; 
+    margin-top:0;}
+
+body{ position: relative; 
+     display: flex;
+     justify-content: center;
+     background-color:rgb(196, 0, 196);}
+
+.devpic{ margin: auto;
+     width: 20rem; 
+     height: 13rem;
+    border-radius: 0.4rem;}
+
+span{ margin-top: 1rem; 
+    background-color: rgb(196, 0, 196); 
+    height: 2rem; width: 5rem;
+     text-align: center;
+     border-radius: 0.3rem;
+     text-justify: auto;
+     padding-top: 0.5rem;
+    }
+
+.avatar{ width: 40px; height: 40px;
+}
+
+.span2{ background-color: antiquewhite;
+         justify-content: center;}
+
+
+
+
+
+
+
+
+
